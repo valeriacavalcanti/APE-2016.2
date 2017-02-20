@@ -6,8 +6,3 @@
 
 ## C
 
-\# | Conteúdo
---- | ---
-01 | Input/Output - IF
-02 | Matriz 1
-03 | Matriz 2
