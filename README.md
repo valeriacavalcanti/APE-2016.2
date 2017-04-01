@@ -6,3 +6,12 @@
 
 ## C
 
+- Apresentação
+- Conceitos Básicos
+- Comandos Básicos
+- Estruturas de Decisão
+- Estruturas de Repetição
+- Vetores
+- String
+- Funções
+- Struct (typedef)
